@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 230 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SD2.vcxproj -> C:\Users\David\source\repos\SD2\x64\Release\SD2.exe

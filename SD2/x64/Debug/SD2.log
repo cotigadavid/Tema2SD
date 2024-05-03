@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\David\source\repos\SD2\SD2\Binary.h(41,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  SD2.vcxproj -> C:\Users\David\source\repos\SD2\x64\Debug\SD2.exe
